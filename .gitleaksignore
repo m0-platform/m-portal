@@ -18,3 +18,5 @@ test/unit/Portal.t.sol:evm-32-byte-hex:133
 lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
 lib/protocol/lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
 lib/ttg/lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
+test/fork/NobleUpgradeFork.t.sol:evm-32-byte-hex:45
+test/fork/NobleUpgradeFork.t.sol:evm-32-byte-hex:49
