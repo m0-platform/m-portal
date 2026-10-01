@@ -1,0 +1,22 @@
+# Reviewed false alarms. Each line is file:rule:start-line.
+# A new secret on a different line still fails the scan.
+script/config/PeersConfig.sol:evm-32-byte-hex:33
+script/config/PeersConfig.sol:evm-32-byte-hex:34
+script/config/PeersConfig.sol:evm-32-byte-hex:35
+script/config/PeersConfig.sol:evm-32-byte-hex:28
+script/config/PeersConfig.sol:evm-32-byte-hex:29
+script/config/PeersConfig.sol:evm-32-byte-hex:30
+script/config/PeersConfig.sol:evm-32-byte-hex:32
+script/config/PeersConfig.sol:generic-api-key:32
+script/config/PeersConfig.sol:evm-32-byte-hex:56
+script/config/PeersConfig.sol:evm-32-byte-hex:60
+script/config/PeersConfig.sol:evm-32-byte-hex:61
+test/fork/HubPortalFork.t.sol:evm-32-byte-hex:92
+src/SpokeVault.sol:generic-api-key:26
+test/unit/Spokevault.t.sol:generic-api-key:49
+test/unit/Portal.t.sol:evm-32-byte-hex:133
+lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
+lib/protocol/lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
+lib/ttg/lib/common/test/utils/ERC1271WalletMock.sol:evm-32-byte-hex:18
+test/fork/NobleUpgradeFork.t.sol:evm-32-byte-hex:45
+test/fork/NobleUpgradeFork.t.sol:evm-32-byte-hex:49
